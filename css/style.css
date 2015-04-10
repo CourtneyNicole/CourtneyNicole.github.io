@@ -1,12 +1,16 @@
 h1
 {
-	color: silver;
+	color: blue;
+	font-size: 24px;
+	text-align: center;
 
 }
+#second {font-style: italic;}
 p, h2
 {
-	color: silver;
+	color: blue;
+	text-align: center;
 }
 body
 
-{background-color: fuchsia;}
+{background-color: silver;}
