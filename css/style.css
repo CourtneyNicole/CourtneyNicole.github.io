@@ -1,16 +1,15 @@
-h1
-{
+h1{
 	color: blue;
 	font-size: 24px;
 	text-align: center;
-
 }
-#second {font-style: italic;}
-p, h2
-{
+#second {
+	font-style: italic;
+}
+p, h2 {
 	color: blue;
 	text-align: center;
 }
-body
-
-{background-color: silver;}
+body {
+	background-color: silver;
+}
