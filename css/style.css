@@ -3,6 +3,7 @@ h1, img {
 	color: blue;
 	font-size: 24px;
 	text-align: center;
+
 }
 
 
@@ -12,6 +13,7 @@ h1, img {
 p, h2 {
 	color: blue;
 	text-align: center;
+	font-family: 'Alegreya', serif;
 }
 body {
 	background-color: silver;
