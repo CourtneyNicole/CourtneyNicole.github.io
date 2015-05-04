@@ -1,5 +1,6 @@
 
-img {display: center;}
+img { margin: 20px;
+}
 
 h1{
 	font-size: 24px;
@@ -21,10 +22,18 @@ h4 {
 	color: blue;
 	}
 
-nav a {
+nav {
 		font-size: 18px;
 		float: left;
 }
+a  {
+	float: left;
+	padding: 24px;
+}
+a:hover {
+	background-color: gray;
+}
+
 p {
 	font-size 12px;
     font-family: Times New Roman;
