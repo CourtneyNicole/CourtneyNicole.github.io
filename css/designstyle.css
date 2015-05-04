@@ -1,0 +1,42 @@
+
+img {display: block;}
+
+h1{
+	font-size: 24px;
+	color: red;
+}
+
+h2 {
+	font-size: 24px;
+	color: orange;
+}
+
+h3 {
+	font-size: 24px;
+	color: green;
+}
+
+h4 {
+	font-size: 24px;
+	color: blue;
+	}
+
+nav {
+		font-size: 18px;
+		float: left;
+}
+p {
+	font-size 12px;
+    font-family: Times New Roman;
+    font-style: italics;
+    }
+
+
+footer {
+		text-align: left;
+}
+
+
+
+
+
