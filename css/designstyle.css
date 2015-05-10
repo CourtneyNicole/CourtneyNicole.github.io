@@ -35,6 +35,8 @@ nav a {
 		font-size: 18px;
 		float: left;
 		background-color: blue;
+		text-align: center;
+		padding: 20px 5px;
 }
 a  {
 	float: left;
