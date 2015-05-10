@@ -12,24 +12,7 @@ h1{
 h2 {
 	font-size: 24px;
 	color: orange;
-}
 
-h3 {
-	font-size: 24px;
-	color: green;
-}
-
-h4 {
-	font-size: 24px;
-	color: blue;
-	}
-
-h1, h2, h3, h4 { 
-	float: left;
-	padding-left: 130x;
-
-   
-}
 
 nav a {
 		font-size: 18px;
@@ -39,7 +22,7 @@ nav a {
 		padding: 20px 5px;
 }
 a  {
-	float: left;
+
 	padding: 24px;
 }
 a:hover {
@@ -47,7 +30,7 @@ a:hover {
 }
 
 p {
-	font-size 12px;
+    font-size 12px;
     font-family: Times New Roman;
     font-style: italics;
     }
