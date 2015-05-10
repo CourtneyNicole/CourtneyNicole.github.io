@@ -31,9 +31,10 @@ h1, h2, h3, h4 {
    
 }
 
-nav {
+nav a {
 		font-size: 18px;
 		float: left;
+		background-color: blue;
 }
 a  {
 	float: left;
