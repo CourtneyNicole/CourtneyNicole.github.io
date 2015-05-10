@@ -21,11 +21,9 @@ nav a {
 		text-align: center;
 		padding: 20px 5px;
 }
-a  {
 
-	padding: 24px;
-}
-a:hover {
+
+nav a:hover {
 	background-color: gray;
 }
 
