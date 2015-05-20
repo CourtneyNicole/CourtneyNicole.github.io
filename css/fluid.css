@@ -12,6 +12,9 @@ nav a {color: green;
         display: none;}
 
  #mobile { display: block; }
+ #innernav {display: none;}
+ 
+ nav:hover #innernav {display: none;}
 
 img {width: 100%;
      display: block;
