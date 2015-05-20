@@ -1,0 +1,45 @@
+
+h1 {color: white;}
+
+body {background-color: gray;
+      font-size: 14px;}
+
+nav {background-color: blue;}
+
+nav a {color: green;
+       text-decoration: none;
+        text-align: center;
+        display: none;}
+
+ #mobile { display: block; }
+
+img {width: 100%;
+     display: block;
+}
+
+{
+ body {font-size: 16px;} 
+}
+
+
+@media screen only and (min-width: 320px)
+
+{ 
+	body {font-size: 12px;}
+	img {width: 100%;}
+}
+
+@media screen only and (min-width: 768px)
+{  
+	img {width: 50%;}
+	nav a {display: block;
+		   float: left;
+
+	}
+
+}
+
+footer {font-style: italic;
+        padding: 2em;
+        text-align: center;}
+
