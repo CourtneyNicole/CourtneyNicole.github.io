@@ -1,0 +1,42 @@
+
+h1 {text-align: center;
+    font-size: 64px;
+     color: white;
+     padding-top: 45px;
+     padding-bottom: 45px;}
+
+
+ #rockstar {text-align: right;}
+
+body {background-color: #0009C7;
+      padding-left: 60px;
+     
+      }
+
+nav {text-align: center;
+     font-size: 32px;
+     color: #E815AB;
+     padding-bottom: 20px;}
+
+nav a {color: #E815AB}
+
+p {color: white;
+	font-size: 24px;
+	 text-align: center;
+   padding-bottom: 90px;
+   padding-left: 60px;
+   
+   }
+
+   #rockstar {clear: both;
+   	          width: 740px;
+             float: right;
+             padding-right: 75px;
+              }
+
+   
+
+   	#love {clear: both;
+           width: 800px;
+           float: right;}
+
