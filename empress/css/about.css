@@ -1,0 +1,24 @@
+
+
+h1 {font-style: bold;
+   font-size: 64px;
+   text-align: center;
+    color: white;
+    padding-top: 50px;}
+
+
+nav {text-align: center;
+     font-size: 32px;
+     color: #E815AB;}
+
+nav a {color: #E815AB}
+
+
+body {text-align: center;
+	  background-color: #0009C7;
+      }
+
+ p {color: white;
+ 	padding-top: 50px;
+      padding-bottom: 50px;
+    }
